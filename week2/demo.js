@@ -25,6 +25,7 @@ console.log("11 'abc' * 2 =", 'abc' * 2);
 
 
 
+// switch
 function getPriceBuggy(size) {
   let price = 0;
   switch (size) {
