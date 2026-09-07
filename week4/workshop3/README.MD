@@ -25,7 +25,7 @@
 | ดึงข้อมูลพร้อม timeout | `Promise.race` | ให้ query แข่งกับตัวจับเวลา ใครเสร็จก่อนตอบก่อน (Timeout Pattern) |
 
 ## วิธีรันโค้ด
-แต่ละไฟล์รันแยกกันได้อิสระด้วย Node.js:
+Node.js:
 ```bash
 node ex1-callback.js
 node ex2-promise.js
